@@ -1,0 +1,8 @@
+﻿  Pierwszy.cpp
+D:\Szkoła\Studia\1 Semestr\Programy\12.10.2021\Pierwszy\Pierwszy\Pierwszy.cpp(9,6): warning C4101: "a": lokalna zmienna, do której nie istnieje odwołanie
+D:\Szkoła\Studia\1 Semestr\Programy\12.10.2021\Pierwszy\Pierwszy\Pierwszy.cpp(9,9): warning C4101: "b": lokalna zmienna, do której nie istnieje odwołanie
+D:\Szkoła\Studia\1 Semestr\Programy\12.10.2021\Pierwszy\Pierwszy\Pierwszy.cpp(9,15): warning C4101: "p": lokalna zmienna, do której nie istnieje odwołanie
+D:\Szkoła\Studia\1 Semestr\Programy\12.10.2021\Pierwszy\Pierwszy\Pierwszy.cpp(9,12): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+D:\Szkoła\Studia\1 Semestr\Programy\12.10.2021\Pierwszy\Pierwszy\Pierwszy.cpp(10,10): warning C4101: "dd": lokalna zmienna, do której nie istnieje odwołanie
+D:\Szkoła\Studia\1 Semestr\Programy\12.10.2021\Pierwszy\Pierwszy\Pierwszy.cpp(10,8): warning C4101: "d": lokalna zmienna, do której nie istnieje odwołanie
+  Pierwszy.vcxproj -> D:\Szkoła\Studia\1 Semestr\Programy\12.10.2021\Pierwszy\Debug\Pierwszy.exe
