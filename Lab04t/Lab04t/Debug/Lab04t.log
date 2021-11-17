@@ -1,0 +1,4 @@
+﻿  Lab04t.cpp
+D:\Szkoła\Studia\1 Semestr\Wstęp do programowania\Programy\16.11.2021\Lab04t\Lab04t\Lab04t.cpp(32,8): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+D:\Szkoła\Studia\1 Semestr\Wstęp do programowania\Programy\16.11.2021\Lab04t\Lab04t\Lab04t.cpp(46,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Lab04t.vcxproj -> D:\Szkoła\Studia\1 Semestr\Wstęp do programowania\Programy\16.11.2021\Lab04t\Debug\Lab04t.exe
