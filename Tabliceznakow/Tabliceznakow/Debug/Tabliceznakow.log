@@ -1,0 +1,6 @@
+﻿  Tabliceznakow.cpp
+D:\VERTIsixs\ds\30.11.2021\Tabliceznakow\Tabliceznakow\Tabliceznakow.cpp(12,6): warning C4101: "liczby": lokalna zmienna, do której nie istnieje odwołanie
+D:\VERTIsixs\ds\30.11.2021\Tabliceznakow\Tabliceznakow\Tabliceznakow.cpp(67,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\VERTIsixs\ds\30.11.2021\Tabliceznakow\Tabliceznakow\Tabliceznakow.cpp(68,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\VERTIsixs\ds\30.11.2021\Tabliceznakow\Tabliceznakow\Tabliceznakow.cpp(73,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Tabliceznakow.vcxproj -> D:\VERTIsixs\ds\30.11.2021\Tabliceznakow\Debug\Tabliceznakow.exe
