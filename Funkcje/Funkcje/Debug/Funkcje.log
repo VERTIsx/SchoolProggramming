@@ -1,0 +1,5 @@
+﻿  Funkcje.cpp
+D:\Szkoła\Studia\1 Semestr\Wstęp do programowania\Programy\14.12.2021\Funkcje\Funkcje\Funkcje.cpp(8,21): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+D:\Szkoła\Studia\1 Semestr\Wstęp do programowania\Programy\14.12.2021\Funkcje\Funkcje\Funkcje.cpp(24,22): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+D:\Szkoła\Studia\1 Semestr\Wstęp do programowania\Programy\14.12.2021\Funkcje\Funkcje\Funkcje.cpp(121,70): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+  Funkcje.vcxproj -> D:\Szkoła\Studia\1 Semestr\Wstęp do programowania\Programy\14.12.2021\Funkcje\Debug\Funkcje.exe
